@@ -26,5 +26,6 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 
-# MacOS
+# Ignore macOS hidden files
 .DS_Store
+**/.DS_Store
