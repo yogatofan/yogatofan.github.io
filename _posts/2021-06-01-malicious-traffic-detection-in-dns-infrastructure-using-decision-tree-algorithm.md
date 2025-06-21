@@ -1,6 +1,6 @@
 ---
 title: Malicious Traffic Detection In DNS Infrastructure Using Decision Tree Algorithm
-date: 2025-06-21 23:00:00 +0700
+date: 2021-06-01 00:00:00 +0700
 tags: [dns, decision tree, malicious traffic]
 ---
 
