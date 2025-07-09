@@ -21,8 +21,8 @@ order: 1
 - Analisis Proses Bisnis
 
 ## Tautan
-- Email: [yoga.if@upjatim.ac.id](mailto:yoga.if@upnjatim.ac.id)
-- Google Scholar: [Lihat Disini](https://scholar.google.com/citations?user=iyQeV4MAAAAJ)
-- LinkedIn: [linkedin.com/in/yogatofan](https://id.linkedin.com/in/yogatofan)
+- Email: <a href="mailto:yoga.if@upnjatim.ac.id">yoga.if@upnjatim.ac.id</a>
+- Google Scholar: <a href="https://scholar.google.com/citations?user=iyQeV4MAAAAJ" target="_blank" rel="noopener noreferrer">Lihat Disini</a>
+- LinkedIn: <a href="https://id.linkedin.com/in/yogatofan" target="_blank" rel="noopener noreferrer">linkedin.com/in/yogatofan</a>
 
 Saya terbuka untuk kolaborasi riset, penulisan jurnal, dan pengembangan sistem berbasis web. Silakan hubungi saya melalui email institusi.
